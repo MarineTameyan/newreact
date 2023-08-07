@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 100px;
+    margin: 50px;
+}
+
+.content{
+    height: 400px;
+    width: 700px;
+    font-size: 15px;
+    background-color: lightgray;
+}
+
+.secondary{
+    height: 400px;
+    width: 400px;
+    font-size: 15px;
+    background-color:antiquewhite
+}
